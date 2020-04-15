@@ -1,0 +1,9 @@
+{
+  "name": "Desa007/IpApiAdapter",
+  "description": "IpApiAdapter",
+  "autoload": {
+    "psr-4": {
+      "Hillel\\Library\\": "src/"
+    }
+  }
+}
