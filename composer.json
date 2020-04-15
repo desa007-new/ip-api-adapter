@@ -1,5 +1,5 @@
 {
-  "name": "Desa007/IpApiAdapter",
+  "name": "desa007/ip-api-adapter",
   "description": "IpApiAdapter",
   "autoload": {
     "psr-4": {
